@@ -3,3 +3,4 @@ A x86 emulator made in pure Python to boot dsl linux anyone who makes a meaningf
 
 grab the dsl iso from here https://distro.ibiblio.org/damnsmall/current/dsl-4.4.10.iso
 p.s rename the file to “dsl.iso”
+there is only one dependency if running without Pythonista ‘numpy’ which can be installed using pip install numpy 
